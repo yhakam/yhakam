@@ -1,14 +1,14 @@
-# 👋 Welcome to my GitHub!
+#  Welcome to my GitHub!
 
-## 📌 About Me
+## About Me
 
-I am Yassine Hakam, a student in management and economics with a strong interest in data science, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
+I am Yassine Hakam, a student in management and economics with a strong interest in data science,machine learning, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
 
 ## 🚀 Ongoing Projects
 
-For now, my GitHub is under construction. I will soon be uploading projects related to my training in IBM Data Science Professional Certificate and Google Advanced Data Analytics Professional Certificate and some other personnal Projects.
+For now, my GitHub is under construction. I will soon be uploading projects related to my training in IBM Data Science Professional Certificate and AWS Machine Learning Specialty and some other personnal Projects.
 
-## 🛠️ Skills
+##  Skills
 
 Languages: Python, R, SQL
 
@@ -16,10 +16,10 @@ Tools: Jupyter Notebook, Git, Power BI, Excel
 
 Fields: Data Science, Data Analysis, Machine Learning
 
-## 📌 Coming Soon
+## Coming Soon
 
-🔹 Data Analysis Projects 📊🔹 Machine Learning Models 🤖🔹 Interactive Notebooks 📓
+🔹 Data Analysis Projects 🔹 Machine Learning Models 🔹 Interactive Notebooks 
 
-## 📫 Contact Me
+## Contact Me
 
 📧 Email: yassinehakam@outlook.com 🔗 LinkedIn: https://www.linkedin.com/in/yhakam/ 🔗 GitHub: github.com/yhakam
