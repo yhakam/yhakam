@@ -12,7 +12,7 @@ For now, my GitHub is under construction. I will soon be uploading projects rela
 
 Languages: Python, R, SQL
 
-Tools: Jupyter Notebook, Git, Power BI, Excel
+Tools: Jupyter Notebook, Git,  Excel
 
 Fields: Data Science, Data Analysis, Machine Learning
 
