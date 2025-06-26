@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Yassine Hakam, a student in management and economics with a strong interest in data science,machine learning, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
+I am Yassine Hakam, a student in AI & Big Data with a strong interest in data science,machine learning, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
 
 ##  Ongoing Projects
 
@@ -18,8 +18,8 @@ Fields: Data Science, Data Analysis, Machine Learning
 
 ## Coming Soon
 
-🔹 Data Analysis Projects 🔹 Machine Learning Models 🔹 Interactive Notebooks 
+- Data Analysis Projects - Machine Learning Models - Interactive Notebooks 
 
 ## Contact Me
 
-📧 Email: yassinehakam@outlook.com 🔗 LinkedIn: https://www.linkedin.com/in/yhakam/ 🔗 GitHub: github.com/yhakam
+📧 Email: yassinehakam@outlook.fr 🔗 LinkedIn: https://www.linkedin.com/in/yhakam/ 🔗 GitHub: github.com/yhakam
