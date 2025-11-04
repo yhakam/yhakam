@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Yassine Hakam, a student in M1 AI & Big Data at ESIEE-IT with a strong interest in data science,machine learning, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
+I am Yassine Hakam, a student in Master AI & Big Data at ESIEE-IT with a strong interest in data science,machine learning, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
 
 ##  Ongoing Projects
 
