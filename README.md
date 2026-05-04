@@ -1,6 +1,6 @@
 # Yassine Hakam — Data Scientist
 
-Étudiant en Master IA & Big Data à l'ESIEE, je construis des projets Data Science de bout en bout — de l'ingestion des données au dashboard déployé en production.
+Étudiant en Master IA & Big Data à l'ESIEE-IT, je construis des projets Data Science de bout en bout — de l'ingestion des données au dashboard déployé en production.
 
 Mon approche : comprendre le domaine métier avant de toucher au code.
 
